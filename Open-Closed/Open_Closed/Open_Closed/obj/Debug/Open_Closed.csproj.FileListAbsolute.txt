@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\bin\Debug\Open_Closed.exe.config
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\bin\Debug\Open_Closed.exe
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\bin\Debug\Open_Closed.pdb
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\obj\Debug\Open_Closed.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\obj\Debug\Open_Closed.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\obj\Debug\Open_Closed.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\obj\Debug\Open_Closed.exe
+C:\Users\Usuario\Desktop\Open-Closed\Open_Closed\Open_Closed\obj\Debug\Open_Closed.pdb
