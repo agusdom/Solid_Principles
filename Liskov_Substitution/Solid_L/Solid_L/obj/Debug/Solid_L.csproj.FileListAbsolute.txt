@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\bin\Debug\Solid_L.exe.config
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\bin\Debug\Solid_L.exe
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\bin\Debug\Solid_L.pdb
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\obj\Debug\Solid_L.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\obj\Debug\Solid_L.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\obj\Debug\Solid_L.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\obj\Debug\Solid_L.exe
+C:\Users\Usuario\Desktop\Liskov_Substitution\Solid_L\Solid_L\obj\Debug\Solid_L.pdb
