@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\bin\Debug\Dependency_Inversion.exe.config
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\bin\Debug\Dependency_Inversion.exe
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\bin\Debug\Dependency_Inversion.pdb
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\obj\Debug\Dependency_Inversion.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\obj\Debug\Dependency_Inversion.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\obj\Debug\Dependency_Inversion.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\obj\Debug\Dependency_Inversion.exe
-C:\Users\Usuario\Desktop\Interface_Segregation\Dependency_Inversion\Dependency_Inversion\obj\Debug\Dependency_Inversion.pdb
