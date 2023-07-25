@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\bin\Debug\Liskov_Substitution.exe.config
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\bin\Debug\Liskov_Substitution.exe
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\bin\Debug\Liskov_Substitution.pdb
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\obj\Debug\Liskov_Substitution.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\obj\Debug\Liskov_Substitution.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\obj\Debug\Liskov_Substitution.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\obj\Debug\Liskov_Substitution.exe
-C:\Users\Usuario\Desktop\Liskov_Substitution\Liskov_Substitution\Liskov_Substitution\obj\Debug\Liskov_Substitution.pdb
