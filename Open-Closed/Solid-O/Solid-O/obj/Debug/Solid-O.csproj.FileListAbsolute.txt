@@ -1,8 +1,0 @@
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\obj\Debug\Solid-O.csproj.AssemblyReference.cache
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\obj\Debug\Solid-O.csproj.SuggestedBindingRedirects.cache
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\obj\Debug\Solid-O.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\bin\Debug\Solid-O.exe.config
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\bin\Debug\Solid-O.exe
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\bin\Debug\Solid-O.pdb
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\obj\Debug\Solid-O.exe
-C:\Users\Usuario\Desktop\Open-Closed\Solid-O\Solid-O\obj\Debug\Solid-O.pdb
